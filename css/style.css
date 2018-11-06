@@ -1,0 +1,56 @@
+body {
+  background:red;
+}
+
+img {
+  width:380px;
+}  
+  
+  h2{
+
+  
+} 
+
+h3{
+
+  
+}  
+
+.header{ 
+  
+  background: teal; 
+  
+  
+}
+
+h1{
+
+}
+
+.cheese{
+  text-align: center;
+ background: lavender; 
+  width: 30%;
+}
+
+
+.pats{
+  text-align: right;
+  background: blue;
+  width: 30%;
+
+  
+}
+
+
+.rams{
+  text-align: left;
+  background: purple;
+  width: 30%;
+
+}
+
+.pictures {
+  display: flex;
+  
+}
